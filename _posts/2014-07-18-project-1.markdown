@@ -3,7 +3,6 @@ title: Cleantek
 subtitle: Web Design & Development
 layout: default
 modal-id: 1
-date: 2019
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
