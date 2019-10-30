@@ -21,6 +21,7 @@ body {
 p {
     font-size: 14px;
     line-height: 1.75;
+    word-break:keep-all;
 }
 
 p.large {
@@ -178,6 +179,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
+    font-weight:bold;
 }
 
 .navbar-default .navbar-brand:hover,
@@ -774,7 +776,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content {
-    padding: 100px 0;
+    padding: 50px 0;
     min-height: 100%;
     border: 0;
     border-radius: 0;
@@ -810,7 +812,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .close-modal {
-    position: absolute;
+    position: fixed;
     top: 25px;
     right: 25px;
     width: 75px;
