@@ -15,4 +15,4 @@ description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At du
 
 ---
 
-![dreams](/img/dreams-thumbnail.png)
+![dreams](img/portfolio/dreams-thumbnail.png)
