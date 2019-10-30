@@ -868,6 +868,6 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
-.mt-02 {
+.mt-2 {
     margin-top: 0.5rem !important;
 }
