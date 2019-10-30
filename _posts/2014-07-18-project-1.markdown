@@ -1,16 +1,15 @@
 ---
-title: cleantek
-subtitle: Website Design
+title: CCT Website
+subtitle: Web Design & Development
 layout: default
 modal-id: 1
 date: 2019-07-15
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-rink: http://cleanteck.co.kr
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
+rink: http://cctkr.com
+client: Bootstrap/ Photoshop
+category: Web Design & Development
 description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 
 ---
