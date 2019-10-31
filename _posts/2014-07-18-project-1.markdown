@@ -4,9 +4,9 @@ subtitle: Web Design & Development
 layout: default
 modal-id: 1
 date: 2019-07-15
-img: dreams.png
-img1: dreams.png
-thumbnail: dreams-thumbnail.png
+img: cct.png
+img1: empty.png
+thumbnail: cct-thum.png
 alt: image-alt
 rink: http://cctkr.com
 client: Bootstrap/ Photoshop
