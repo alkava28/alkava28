@@ -1,0 +1,15 @@
+---
+title: Pos System
+subtitle: System Design
+layout: default
+modal-id: 9
+date: 2019-07-17
+img: gamepos.png
+img1: gamepos1.png
+thumbnail: gamepos-thum.png
+alt: image-alt
+client: Photoshop
+category: System Design
+description: 아이즈프리의 당구장 포스 시스템 디자인.
+
+---
