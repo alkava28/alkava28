@@ -3,7 +3,7 @@ title: Toppik Website
 subtitle: Web Design & Development
 layout: default
 modal-id: 2
-date: 2014-07-17
+date: 2019-07-17
 img: toppik.png
 img1: empty.png
 thumbnail: toppik-thumb.png
