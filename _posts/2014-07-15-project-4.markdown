@@ -1,15 +1,16 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: cleantek mall
+subtitle:  Web Design & Development
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2019-07-15
+img: cleantek.png
+img1: empty.png
+thumbnail: cleantek-thum.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: photoshop / cafe24
+category:  Web Design & Development
+description: 크린텍사의 쇼핑몰 디자인.
 
 ---
