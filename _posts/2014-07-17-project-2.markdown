@@ -8,8 +8,8 @@ img: toppik.png
 img1: toppik-content.png
 thumbnail: toppik-thum.png
 alt: image-alt
-client: Photoshop / HTML5
+client: Photoshop / HTML & CSS / cafe24
 category: Web Design & Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Toppik사의 웹사이트 디자인. 
 
 ---

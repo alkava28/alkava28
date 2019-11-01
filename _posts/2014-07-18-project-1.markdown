@@ -9,8 +9,8 @@ img1: empty.png
 thumbnail: cct-thum.png
 alt: image-alt
 rink: http://cctkr.com
-client: Bootstrap/ Photoshop
+client: Bootstrap / Photoshop
 category: Web Design & Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 크린컨테크사의 웹사이트 디자인.
 
 ---
