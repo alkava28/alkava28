@@ -1,0 +1,15 @@
+---
+title: Score Board
+subtitle: System Design
+layout: default
+modal-id: 8
+date: 2019-07-17
+img: qvision.png
+img1: qvision1.png
+thumbnail: qvision-thum.png
+alt: image-alt
+client: Photoshop
+category: System Design
+description: 인텐사의 당구스코어 보드 시스템 디자인.
+
+---
