@@ -4,12 +4,12 @@ baseurl: /test/
 # Site settings
 title: HEO PORTFOLIO
 email: alkava28@naver.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "HEO PORTFOLIO"
 
 
 # Team names, titles and social links
 people:
-- name: HEO
+- name: 허근
   pic: 1
   position: Designer
   email: alkava28@naver.com
