@@ -1,0 +1,15 @@
+---
+title: Seapool
+subtitle: Web Design
+layout: default
+modal-id: 12
+date: 2019-07-17
+img: sea.png
+img1: empty.png
+thumbnail: sea-thum.png
+alt: image-alt
+client: Photoshop
+category: App Design
+description: 낚시가뙇 웹 디자인.
+
+---
