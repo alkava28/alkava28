@@ -5,6 +5,7 @@ layout: default
 modal-id: 5
 date: 2019-07-14
 img: youtube.png
+img1: empty.png
 thumbnail: youtube-thum.png
 alt: image-alt
 rink: https://www.youtube.com/channel/UCWhaWOJkgkHoPLhJ5W2WW7w/videos
