@@ -8,7 +8,7 @@ img: sea.png
 img1: empty.png
 thumbnail: sea-thum.png
 alt: image-alt
-link: http://www.seapool.kr/
+rink: http://www.seapool.kr/
 client: Photoshop
 category: App Design
 description: 낚시가뙇 웹 디자인.
