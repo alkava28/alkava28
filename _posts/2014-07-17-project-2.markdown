@@ -6,7 +6,7 @@ modal-id: 2
 date: 2019-07-17
 img: toppik.png
 img1: empty.png
-thumbnail: toppik-thumb.png
+thumbnail: toppik-thum.png
 alt: image-alt
 client: Photoshop / HTML5
 category: Web Design & Development
