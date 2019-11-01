@@ -1,15 +1,16 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Faceon
+subtitle: Package Design
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2019-07-15
+img: faceon.png
+img: faceon1.png
+thumbnail: faceon-thum.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Illustrator
+category: Package Design
+description: 페이스온사의 화장품 패키지 디자인.
 
 ---
