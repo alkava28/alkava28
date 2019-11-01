@@ -8,7 +8,7 @@ img: cleantek.png
 img1: empty.png
 thumbnail: cleantek-thum.png
 alt: image-alt
-project-date: April 2014
+rink: http://cctkr.com
 client: photoshop / cafe24
 category:  Web Design & Development
 description: 크린텍사의 쇼핑몰 디자인.
