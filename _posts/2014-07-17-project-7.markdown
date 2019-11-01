@@ -1,15 +1,15 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Score Board
+subtitle: System Design
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2019-07-17
+img: game.png
+img1: game1.png
+thumbnail: game-thum.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+client: Photoshop
+category: System Design
+description: 아이즈프리사의 당구스코어 보드 시스템 디자인.
 
 ---
