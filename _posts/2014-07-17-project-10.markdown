@@ -8,6 +8,7 @@ img: okey.png
 img1: empty.png
 thumbnail: okey-thum.png
 alt: image-alt
+rink: http://okeyok.com/
 client: Photoshop
 category: Web Design
 description: 부동산 검색 플랫폼 디자인.
